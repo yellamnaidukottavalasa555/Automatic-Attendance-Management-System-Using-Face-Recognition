@@ -1,3 +1,5 @@
 The main objective of this project is to design a system which can mark the attendance by recognizing the students face. Apart from the traditional method. There are so many ways to mark attendance, but here we are going with Face Recognition. When a student enters the class, the Camera will detect the face in the frame and after that, it will recognize the student and it will mark attendance for him/her in the excel sheet.
+
 It is not very efficient to maintain and record attendance in a class by means of a manual process. Since bunking the courses or offering proxies for the absentees, the students of the current generation become enjoyable and fantastic. It becomes a daunting task to manually enter attendance in logbooks and it can be easily manipulated.
+
 For the purpose of attendance, the use of face recognition Marking is the smart way to handle attendance. Face recognition is more precise and quicker. The procedure, among other methods, decreases the likelihood of Attendance by proxy. Face recognition provides passive recognition of images. It is an efficient way to mark attendance among all other techniques.
